@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<utenti>
+  <!--password = 12345678-->
+  <utente email="prova1@prova.com" password="ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f">
+    <evento codice="1" partecipanti="34"/>
+    <evento codice="3" partecipanti="6"/>
+    <evento codice="4" partecipanti="54"/>
+    <evento codice="2" partecipanti="4"/>
+  </utente>
+  <!--password = 12345678-->
+  <utente email="prova2@prova.com" password="ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f">
+    <evento codice="1" partecipanti="1"/>
+    <evento codice="2" partecipanti="1"/>
+  </utente>
+</utenti>

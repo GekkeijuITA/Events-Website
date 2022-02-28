@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<amministratori>
+<!--
+    email = vaccareccilorenzo@gmail.com password = 123456789
+    email = gaggioligabriele@gmail.com password = 123456789
+-->
+    <admin email="28b631becea62f1992d1c8ca1ca88498" password="15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"/>
+    <admin email="0f7940885ff6f60453221addf1ce6120" password="15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"/>
+</amministratori>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eventi>
+  <evento codice="1">
+    <titolo>NBA All-Star Game 2022</titolo>
+    <immagine>img/allstar.jpeg</immagine>
+    <descrizione>
+            Benvenuti all'All-star Game NBA, il più grande spettacolo del mondo! l 71° All-Star Game NBA andrà in scena il prossimo 20 febbraio a Cleveland - evento speciale e molto atteso in cui celebrare i 75 anni dalla nascita della lega, oltre che ennesimo appuntamento da non perdere nella ricca stagione costellata di stelle ed eventi speciali. La città dell’Ohio non è stata scelta a caso, visto che l’ultima volta che ha ospitato l’All-Star Game è stato nel 1997 - quando vennero premiati i migliori 50 giocatori all-time del primo mezzo secolo NBA. Un ritorno speciale a Cleveland, con il pubblico come sempre chiamato per il 50% a decidere quali saranno i 24 giocatori a prendere parte alla partita (con i restanti 25% equamente divisi tra le preferenze degli atleti e quelle dei media). Gli addetti ai lavori indicheranno due guardie e tre ali per ogni Conference, con il conteggio dei voti che verrà aggiornato strada facendo nelle prossime settimane: gli appuntamenti da segnare sul calendario sono il 6, il 13 e il 20 gennaio con le segnalazioni parziali dei talenti più votati. Il meccanismo di selezione poi resta sempre lo stesso: i giocatori che riceveranno più voti a Est e Ovest saranno i capitani che poi sceglieranno tra gli otto titolari residui (dividendosene quattro e quattro senza badare alla provenienza dalle Conference) e a dividersi poi le 14 riserve. I dettagli sul All-Star Game Draft verranno comunicati poi una volta conosciuti i nomi delle stelle più votate.        
+    </descrizione>
+  </evento>
+  <evento codice="2">
+    <titolo>Road to St.Pietroburg</titolo>
+    <immagine>img/sanpietroburgo.jpg</immagine>
+    <descrizione>
+            La Gazprom Arena di San Pietroburgo ospiterà finale di UEFA Champions League nel 2022, uno degli eventi più attesi del panorama sportivo. La competizione raggiunge l'apice della spettacolarità in questo incontro, che vedrà come protagoniste le due migliori squadre del 2021/2022. In questa serata, lo spettacolo è assicurato: i più grandi talenti ed esponenti dello sport più amato al mondo, che si scontrano per salire sul tetto più alto d'Europa.
+    </descrizione>
+  </evento>
+  <evento codice="3">
+    <titolo>Mondiale 2022</titolo>
+    <immagine>img/qatar.jpeg</immagine>
+    <descrizione>
+            La gara inaugurale di Qatar 2022 si giocherà lunedì 21 novembre 2022. Pieno autunno dunque in Italia e nel resto d'Europa, ma ben più di 30 gradi nel paese asiatico. La finale, prevista a Lusail, verrà invece disputata il 18 dicembre 2022, ad una sola settimana da Natale. Per ora solo il paese ospitante del Qatar ha il pass assicurato per la fase finale dei Mondiali. Si tratta dell'ultima edizione con 32 squadre, prima dell'allargamento a 48: di queste 32, 13 saranno europee, 5 africane, almeno 4 sudamericane e asiatiche (oltre al Qatar), 3 centro-nord americane. Le ultime verranno decise dagli spareggi. Spettacolo garantito!        
+    </descrizione>
+  </evento>
+  <evento codice="4">
+    <titolo>Coppa Davis</titolo>
+    <immagine>img/coppadavis.jpeg</immagine>
+    <descrizione>
+            La coppa Davis, l'appuntamento che ogni appassionato di tennis segna con il cerchio rosso sul proprio calendario. Ogni sfida tra due nazioni del Gruppo Mondiale consiste di 5 incontri disputati nell'arco di tre giorni, solitamente venerdì, sabato e domenica. Al venerdì si disputano due singolari, il sabato un doppio, la domenica altri due singolari, di regola tra gli stessi singolaristi del venerdì, ma "incrociati". Qui si scontrano i più grandi, non mancare.        
+    </descrizione>
+  </evento>
+</eventi>

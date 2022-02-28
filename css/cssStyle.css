@@ -1,0 +1,110 @@
+#username,#password,#evento
+{
+    min-width: 350px;
+    width:30%;  
+    border-radius: 5px;
+    padding:5px;
+    margin: 3px;
+    border: 2px solid black;
+    float:left;
+}
+#quantity
+{
+    width:20%;  
+    border-radius: 5px;
+    padding:5px;
+    margin: 3px;
+    border: 2px solid black; 
+}
+.generalDiv
+{
+    min-width: 400px;
+    width:40%;
+    height:auto;
+    min-height: 215px;
+    background-color: #6C757D;
+    padding: 10px;
+    border-radius: 5px;
+}
+body
+{
+    background: orangered;
+}
+input
+{
+    margin-left: 3px;
+    display: inline-block;
+}
+#submitButton
+{
+    width:auto;
+    border-radius: 5px;
+    padding:5px;
+    margin: 3px;
+    margin-top: 15px;
+    background-color: #212529;
+    color:white;
+}
+#checkbox,#submitButton
+{
+    cursor: pointer;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+}
+input:-webkit-autofill
+{
+    box-shadow: none;
+    -webkit-box-shadow: 0 0 0 1000px white inset;
+}
+.clear
+{
+    clear: left;
+}
+.verticalCenterParent
+{
+    display: table;
+    vertical-align: center;
+}
+.verticalCenterChild
+{
+    display: table-cell;
+    vertical-align: middle;
+}
+.text
+{
+    text-align: justify;
+}
+img
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+    height:auto;
+    max-width: 900px;
+}
+.space
+{
+    text-indent: 1em;
+}
+.description
+{
+    background:white;
+    padding:20px;    
+}
+.menu input,textarea,img
+{
+    display: block;
+    margin: 0 auto;
+}
+.menu img
+{
+    max-width: 800;
+}
+.warning
+{
+    font-size: 1.75vw;
+}
